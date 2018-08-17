@@ -1,0 +1,35 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "path": "data/production.csv",
+      "profile": "tabular-data-resource",
+      "name": "production",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "product",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "mass",
+            "type": "integer",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}
