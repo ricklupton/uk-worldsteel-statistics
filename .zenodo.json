@@ -1,0 +1,16 @@
+{
+    "license": "other-closed",
+    "upload_type": "dataset",
+    "creators": [
+        {
+            "orcid": "0000-0001-8622-3085",
+            "affiliation": "University of Bath",
+            "name": "Rick Lupton"
+        },
+        {
+            "orcid": "0000-0002-0962-0674",
+            "affiliation": "University of Cambridge",
+            "name": "Andr\u00e9 Cabrera Serrenho"
+        }
+    ]
+}
