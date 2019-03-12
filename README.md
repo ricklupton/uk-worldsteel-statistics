@@ -1,4 +1,5 @@
 [![goodtables.io](https://goodtables.io/badge/github/ricklupton/uk-worldsteel-statistics.svg)](https://goodtables.io/github/ricklupton/uk-worldsteel-statistics)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2591421.svg)](https://doi.org/10.5281/zenodo.2591421)
 
 Statistics on UK steel production from worldsteel for the period 1978--2008.
 
