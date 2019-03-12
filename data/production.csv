@@ -1,20 +1,221 @@
 product,year,mass
-Crude steel production,2016,7635
-Hot rolled long products,2016,2940
-Hot rolled flat products,2016,3743
-Railway track material,2016,191
-Heavy sections (>=80mm),2016,846
-Light sections (<80mm),2016,0
-Concrete reinforced bars,2016,340
-Other hot rolled bars,2016,637
-Wire rod,2016,926
-Hot rolled plate (>=3mm),2016,434
-"Hot rolled coil, sheet and strip (<3mm)",2016,3310
-Electrical sheet and strip,2016,55
-Tinmill products,2016,390
-Other metal coated sheet and strip,2016,799
-Non-metalic coated sheet and strip,2016,342
-Tubular products,2016,0
+Railway track material,1978,240
+Heavy sections (>=80mm),1978,1520
+Concrete reinforced bars,1978,1041
+Electrical sheet and strip,1978,227
+Tinmill products,1978,1110
+Other metal coated sheet and strip,1978,403
+Non-metalic coated sheet and strip,1978,281
+Railway track material,1979,259
+Heavy sections (>=80mm),1979,1831
+Concrete reinforced bars,1979,1102
+Electrical sheet and strip,1979,198
+Tinmill products,1979,1152
+Other metal coated sheet and strip,1979,513
+Non-metalic coated sheet and strip,1979,353
+Railway track material,1980,161
+Heavy sections (>=80mm),1980,1314
+Concrete reinforced bars,1980,781
+Electrical sheet and strip,1980,78
+Tinmill products,1980,624
+Other metal coated sheet and strip,1980,381
+Non-metalic coated sheet and strip,1980,99
+Railway track material,1981,226
+Heavy sections (>=80mm),1981,1789
+Concrete reinforced bars,1981,788
+Electrical sheet and strip,1981,107
+Tinmill products,1981,864
+Other metal coated sheet and strip,1981,595
+Non-metalic coated sheet and strip,1981,141
+Railway track material,1982,221
+Heavy sections (>=80mm),1982,1570
+Concrete reinforced bars,1982,723
+Electrical sheet and strip,1982,183
+Tinmill products,1982,911
+Other metal coated sheet and strip,1982,563
+Non-metalic coated sheet and strip,1982,183
+Railway track material,1983,262
+Heavy sections (>=80mm),1983,1551
+Concrete reinforced bars,1983,823
+Electrical sheet and strip,1983,0
+Tinmill products,1983,938
+Other metal coated sheet and strip,1983,0
+Non-metalic coated sheet and strip,1983,0
+Railway track material,1984,232
+Heavy sections (>=80mm),1984,1417
+Concrete reinforced bars,1984,811
+Electrical sheet and strip,1984,0
+Tinmill products,1984,967
+Other metal coated sheet and strip,1984,0
+Non-metalic coated sheet and strip,1984,0
+Railway track material,1985,216
+Heavy sections (>=80mm),1985,1643
+Concrete reinforced bars,1985,937
+Electrical sheet and strip,1985,0
+Tinmill products,1985,910
+Other metal coated sheet and strip,1985,0
+Non-metalic coated sheet and strip,1985,0
+Railway track material,1986,174
+Heavy sections (>=80mm),1986,1705
+Concrete reinforced bars,1986,903
+Electrical sheet and strip,1986,0
+Tinmill products,1986,940
+Other metal coated sheet and strip,1986,947
+Non-metalic coated sheet and strip,1986,0
+Railway track material,1987,237
+Heavy sections (>=80mm),1987,1945
+Concrete reinforced bars,1987,950
+Electrical sheet and strip,1987,0
+Tinmill products,1987,1074
+Other metal coated sheet and strip,1987,1105
+Non-metalic coated sheet and strip,1987,0
+Railway track material,1988,236
+Heavy sections (>=80mm),1988,1874
+Concrete reinforced bars,1988,1168
+Electrical sheet and strip,1988,200
+Tinmill products,1988,1018
+Other metal coated sheet and strip,1988,1246
+Non-metalic coated sheet and strip,1988,0
+Railway track material,1989,242
+Heavy sections (>=80mm),1989,1926
+Concrete reinforced bars,1989,702
+Electrical sheet and strip,1989,202
+Tinmill products,1989,961
+Other metal coated sheet and strip,1989,1320
+Non-metalic coated sheet and strip,1989,0
+Railway track material,1990,232
+Heavy sections (>=80mm),1990,1913
+Concrete reinforced bars,1990,681
+Electrical sheet and strip,1990,198
+Tinmill products,1990,855
+Other metal coated sheet and strip,1990,1338
+Non-metalic coated sheet and strip,1990,398
+Railway track material,1991,201
+Heavy sections (>=80mm),1991,1744
+Concrete reinforced bars,1991,685
+Electrical sheet and strip,1991,175
+Tinmill products,1991,742
+Other metal coated sheet and strip,1991,1330
+Non-metalic coated sheet and strip,1991,332
+Railway track material,1992,158
+Heavy sections (>=80mm),1992,1813
+Concrete reinforced bars,1992,537
+Electrical sheet and strip,1992,183
+Tinmill products,1992,805
+Other metal coated sheet and strip,1992,1408
+Non-metalic coated sheet and strip,1992,363
+Railway track material,1993,148
+Heavy sections (>=80mm),1993,1877
+Concrete reinforced bars,1993,645
+Electrical sheet and strip,1993,193
+Tinmill products,1993,829
+Other metal coated sheet and strip,1993,1484
+Non-metalic coated sheet and strip,1993,382
+Railway track material,1994,161
+Heavy sections (>=80mm),1994,1860
+Concrete reinforced bars,1994,526
+Electrical sheet and strip,1994,196
+Tinmill products,1994,767
+Other metal coated sheet and strip,1994,1619
+Non-metalic coated sheet and strip,1994,407
+Railway track material,1995,210
+Heavy sections (>=80mm),1995,1876
+Concrete reinforced bars,1995,514
+Electrical sheet and strip,1995,239
+Tinmill products,1995,786
+Other metal coated sheet and strip,1995,1815
+Non-metalic coated sheet and strip,1995,498
+Railway track material,1996,211
+Heavy sections (>=80mm),1996,1941
+Concrete reinforced bars,1996,655
+Electrical sheet and strip,1996,218
+Tinmill products,1996,737
+Other metal coated sheet and strip,1996,1878
+Non-metalic coated sheet and strip,1996,501
+Railway track material,1997,187
+Heavy sections (>=80mm),1997,1780
+Concrete reinforced bars,1997,604
+Electrical sheet and strip,1997,233
+Tinmill products,1997,757
+Other metal coated sheet and strip,1997,2024
+Non-metalic coated sheet and strip,1997,518
+Railway track material,1998,213
+Heavy sections (>=80mm),1998,1725
+Concrete reinforced bars,1998,517
+Electrical sheet and strip,1998,211
+Tinmill products,1998,757
+Other metal coated sheet and strip,1998,2009
+Non-metalic coated sheet and strip,1998,559
+Railway track material,1999,230
+Heavy sections (>=80mm),1999,1703
+Concrete reinforced bars,1999,398
+Electrical sheet and strip,1999,184
+Tinmill products,1999,734
+Other metal coated sheet and strip,1999,1938
+Non-metalic coated sheet and strip,1999,561
+Railway track material,2000,186
+Heavy sections (>=80mm),2000,1389
+Concrete reinforced bars,2000,289
+Electrical sheet and strip,2000,234
+Tinmill products,2000,749
+Other metal coated sheet and strip,2000,1900
+Non-metalic coated sheet and strip,2000,566
+Railway track material,2001,178
+Heavy sections (>=80mm),2001,1411
+Concrete reinforced bars,2001,334
+Electrical sheet and strip,2001,176
+Tinmill products,2001,604
+Other metal coated sheet and strip,2001,1339
+Non-metalic coated sheet and strip,2001,429
+Railway track material,2002,194
+Heavy sections (>=80mm),2002,1346
+Concrete reinforced bars,2002,199
+Electrical sheet and strip,2002,155
+Tinmill products,2002,562
+Other metal coated sheet and strip,2002,1365
+Non-metalic coated sheet and strip,2002,423
+Railway track material,2003,175
+Heavy sections (>=80mm),2003,1367
+Concrete reinforced bars,2003,157
+Electrical sheet and strip,2003,183
+Tinmill products,2003,493
+Other metal coated sheet and strip,2003,1355
+Non-metalic coated sheet and strip,2003,442
+Railway track material,2004,152
+Heavy sections (>=80mm),2004,1231
+Concrete reinforced bars,2004,420
+Electrical sheet and strip,2004,183
+Tinmill products,2004,676
+Other metal coated sheet and strip,2004,1271
+Non-metalic coated sheet and strip,2004,441
+Railway track material,2005,196
+Heavy sections (>=80mm),2005,964
+Concrete reinforced bars,2005,379
+Electrical sheet and strip,2005,144
+Tinmill products,2005,471
+Other metal coated sheet and strip,2005,1245
+Non-metalic coated sheet and strip,2005,399
+Railway track material,2006,155
+Heavy sections (>=80mm),2006,1115
+Concrete reinforced bars,2006,524
+Electrical sheet and strip,2006,139
+Tinmill products,2006,421
+Other metal coated sheet and strip,2006,1318
+Non-metalic coated sheet and strip,2006,448
+Railway track material,2007,139
+Heavy sections (>=80mm),2007,965
+Concrete reinforced bars,2007,587
+Electrical sheet and strip,2007,127
+Tinmill products,2007,443
+Other metal coated sheet and strip,2007,1219
+Non-metalic coated sheet and strip,2007,434
+Railway track material,2008,218
+Heavy sections (>=80mm),2008,851
+Concrete reinforced bars,2008,662
+Electrical sheet and strip,2008,90
+Tinmill products,2008,462
+Other metal coated sheet and strip,2008,1059
+Non-metalic coated sheet and strip,2008,413
 Crude steel production,2009,10079
 Hot rolled long products,2009,3131
 Hot rolled flat products,2009,4004
@@ -73,220 +274,19 @@ Electrical sheet and strip,2015,66
 Tinmill products,2015,407
 Other metal coated sheet and strip,2015,1076
 Non-metalic coated sheet and strip,2015,303
-Railway track material,2008,218
-Heavy sections (>=80mm),2008,851
-Concrete reinforced bars,2008,662
-Electrical sheet and strip,2008,90
-Tinmill products,2008,462
-Other metal coated sheet and strip,2008,1059
-Non-metalic coated sheet and strip,2008,413
-Railway track material,2007,139
-Heavy sections (>=80mm),2007,965
-Concrete reinforced bars,2007,587
-Electrical sheet and strip,2007,127
-Tinmill products,2007,443
-Other metal coated sheet and strip,2007,1219
-Non-metalic coated sheet and strip,2007,434
-Railway track material,2006,155
-Heavy sections (>=80mm),2006,1115
-Concrete reinforced bars,2006,524
-Electrical sheet and strip,2006,139
-Tinmill products,2006,421
-Other metal coated sheet and strip,2006,1318
-Non-metalic coated sheet and strip,2006,448
-Railway track material,2005,196
-Heavy sections (>=80mm),2005,964
-Concrete reinforced bars,2005,379
-Electrical sheet and strip,2005,144
-Tinmill products,2005,471
-Other metal coated sheet and strip,2005,1245
-Non-metalic coated sheet and strip,2005,399
-Railway track material,2004,152
-Heavy sections (>=80mm),2004,1231
-Concrete reinforced bars,2004,420
-Electrical sheet and strip,2004,183
-Tinmill products,2004,676
-Other metal coated sheet and strip,2004,1271
-Non-metalic coated sheet and strip,2004,441
-Railway track material,2003,175
-Heavy sections (>=80mm),2003,1367
-Concrete reinforced bars,2003,157
-Electrical sheet and strip,2003,183
-Tinmill products,2003,493
-Other metal coated sheet and strip,2003,1355
-Non-metalic coated sheet and strip,2003,442
-Railway track material,2002,194
-Heavy sections (>=80mm),2002,1346
-Concrete reinforced bars,2002,199
-Electrical sheet and strip,2002,155
-Tinmill products,2002,562
-Other metal coated sheet and strip,2002,1365
-Non-metalic coated sheet and strip,2002,423
-Railway track material,2001,178
-Heavy sections (>=80mm),2001,1411
-Concrete reinforced bars,2001,334
-Electrical sheet and strip,2001,176
-Tinmill products,2001,604
-Other metal coated sheet and strip,2001,1339
-Non-metalic coated sheet and strip,2001,429
-Railway track material,2000,186
-Heavy sections (>=80mm),2000,1389
-Concrete reinforced bars,2000,289
-Electrical sheet and strip,2000,234
-Tinmill products,2000,749
-Other metal coated sheet and strip,2000,1900
-Non-metalic coated sheet and strip,2000,566
-Railway track material,1999,230
-Heavy sections (>=80mm),1999,1703
-Concrete reinforced bars,1999,398
-Electrical sheet and strip,1999,184
-Tinmill products,1999,734
-Other metal coated sheet and strip,1999,1938
-Non-metalic coated sheet and strip,1999,561
-Railway track material,1998,213
-Heavy sections (>=80mm),1998,1725
-Concrete reinforced bars,1998,517
-Electrical sheet and strip,1998,211
-Tinmill products,1998,757
-Other metal coated sheet and strip,1998,2009
-Non-metalic coated sheet and strip,1998,559
-Railway track material,1997,187
-Heavy sections (>=80mm),1997,1780
-Concrete reinforced bars,1997,604
-Electrical sheet and strip,1997,233
-Tinmill products,1997,757
-Other metal coated sheet and strip,1997,2024
-Non-metalic coated sheet and strip,1997,518
-Railway track material,1996,211
-Heavy sections (>=80mm),1996,1941
-Concrete reinforced bars,1996,655
-Electrical sheet and strip,1996,218
-Tinmill products,1996,737
-Other metal coated sheet and strip,1996,1878
-Non-metalic coated sheet and strip,1996,501
-Railway track material,1995,210
-Heavy sections (>=80mm),1995,1876
-Concrete reinforced bars,1995,514
-Electrical sheet and strip,1995,239
-Tinmill products,1995,786
-Other metal coated sheet and strip,1995,1815
-Non-metalic coated sheet and strip,1995,498
-Railway track material,1994,161
-Heavy sections (>=80mm),1994,1860
-Concrete reinforced bars,1994,526
-Electrical sheet and strip,1994,196
-Tinmill products,1994,767
-Other metal coated sheet and strip,1994,1619
-Non-metalic coated sheet and strip,1994,407
-Railway track material,1993,148
-Heavy sections (>=80mm),1993,1877
-Concrete reinforced bars,1993,645
-Electrical sheet and strip,1993,193
-Tinmill products,1993,829
-Other metal coated sheet and strip,1993,1484
-Non-metalic coated sheet and strip,1993,382
-Railway track material,1992,158
-Heavy sections (>=80mm),1992,1813
-Concrete reinforced bars,1992,537
-Electrical sheet and strip,1992,183
-Tinmill products,1992,805
-Other metal coated sheet and strip,1992,1408
-Non-metalic coated sheet and strip,1992,363
-Railway track material,1991,201
-Heavy sections (>=80mm),1991,1744
-Concrete reinforced bars,1991,685
-Electrical sheet and strip,1991,175
-Tinmill products,1991,742
-Other metal coated sheet and strip,1991,1330
-Non-metalic coated sheet and strip,1991,332
-Railway track material,1990,232
-Heavy sections (>=80mm),1990,1913
-Concrete reinforced bars,1990,681
-Electrical sheet and strip,1990,198
-Tinmill products,1990,855
-Other metal coated sheet and strip,1990,1338
-Non-metalic coated sheet and strip,1990,398
-Railway track material,1989,242
-Heavy sections (>=80mm),1989,1926
-Concrete reinforced bars,1989,702
-Electrical sheet and strip,1989,202
-Tinmill products,1989,961
-Other metal coated sheet and strip,1989,1320
-Non-metalic coated sheet and strip,1989,0
-Railway track material,1988,236
-Heavy sections (>=80mm),1988,1874
-Concrete reinforced bars,1988,1168
-Electrical sheet and strip,1988,200
-Tinmill products,1988,1018
-Other metal coated sheet and strip,1988,1246
-Non-metalic coated sheet and strip,1988,0
-Railway track material,1987,237
-Heavy sections (>=80mm),1987,1945
-Concrete reinforced bars,1987,950
-Electrical sheet and strip,1987,0
-Tinmill products,1987,1074
-Other metal coated sheet and strip,1987,1105
-Non-metalic coated sheet and strip,1987,0
-Railway track material,1986,174
-Heavy sections (>=80mm),1986,1705
-Concrete reinforced bars,1986,903
-Electrical sheet and strip,1986,0
-Tinmill products,1986,940
-Other metal coated sheet and strip,1986,947
-Non-metalic coated sheet and strip,1986,0
-Railway track material,1985,216
-Heavy sections (>=80mm),1985,1643
-Concrete reinforced bars,1985,937
-Electrical sheet and strip,1985,0
-Tinmill products,1985,910
-Other metal coated sheet and strip,1985,0
-Non-metalic coated sheet and strip,1985,0
-Railway track material,1984,232
-Heavy sections (>=80mm),1984,1417
-Concrete reinforced bars,1984,811
-Electrical sheet and strip,1984,0
-Tinmill products,1984,967
-Other metal coated sheet and strip,1984,0
-Non-metalic coated sheet and strip,1984,0
-Railway track material,1983,262
-Heavy sections (>=80mm),1983,1551
-Concrete reinforced bars,1983,823
-Electrical sheet and strip,1983,0
-Tinmill products,1983,938
-Other metal coated sheet and strip,1983,0
-Non-metalic coated sheet and strip,1983,0
-Railway track material,1982,221
-Heavy sections (>=80mm),1982,1570
-Concrete reinforced bars,1982,723
-Electrical sheet and strip,1982,183
-Tinmill products,1982,911
-Other metal coated sheet and strip,1982,563
-Non-metalic coated sheet and strip,1982,183
-Railway track material,1981,226
-Heavy sections (>=80mm),1981,1789
-Concrete reinforced bars,1981,788
-Electrical sheet and strip,1981,107
-Tinmill products,1981,864
-Other metal coated sheet and strip,1981,595
-Non-metalic coated sheet and strip,1981,141
-Railway track material,1980,161
-Heavy sections (>=80mm),1980,1314
-Concrete reinforced bars,1980,781
-Electrical sheet and strip,1980,78
-Tinmill products,1980,624
-Other metal coated sheet and strip,1980,381
-Non-metalic coated sheet and strip,1980,99
-Railway track material,1979,259
-Heavy sections (>=80mm),1979,1831
-Concrete reinforced bars,1979,1102
-Electrical sheet and strip,1979,198
-Tinmill products,1979,1152
-Other metal coated sheet and strip,1979,513
-Non-metalic coated sheet and strip,1979,353
-Railway track material,1978,240
-Heavy sections (>=80mm),1978,1520
-Concrete reinforced bars,1978,1041
-Electrical sheet and strip,1978,227
-Tinmill products,1978,1110
-Other metal coated sheet and strip,1978,403
-Non-metalic coated sheet and strip,1978,281
+Crude steel production,2016,7635
+Hot rolled long products,2016,2940
+Hot rolled flat products,2016,3743
+Railway track material,2016,191
+Heavy sections (>=80mm),2016,846
+Light sections (<80mm),2016,0
+Concrete reinforced bars,2016,340
+Other hot rolled bars,2016,637
+Wire rod,2016,926
+Hot rolled plate (>=3mm),2016,434
+"Hot rolled coil, sheet and strip (<3mm)",2016,3310
+Electrical sheet and strip,2016,55
+Tinmill products,2016,390
+Other metal coated sheet and strip,2016,799
+Non-metalic coated sheet and strip,2016,342
+Tubular products,2016,0
